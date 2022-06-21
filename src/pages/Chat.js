@@ -8,6 +8,7 @@ import { useCookies } from "react-cookie";
 import axios from "axios";
 
 const Chat = () => {
+  
   const [user, setUser] = useState(null);
   const [cookies, setCookie, removeCookie] = useCookies(["user"]);
 
