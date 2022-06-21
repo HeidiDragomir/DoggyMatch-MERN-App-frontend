@@ -2,11 +2,11 @@
 
 The place where you can find a perfect match for your doggy.
 
-<img src="https://raw.githubusercontent.com/HeidiDragomir/DoggyMatch-MERN-App-frontend/main/src/assets/img/DoggyMatch.jpg" width="auto" height="300">
+<img src="https://raw.githubusercontent.com/HeidiDragomir/DoggyMatch-MERN-App-frontend/main/src/assets/img/DoggyMatch.jpg" width="auto" height="auto">
 
-<img src="https://raw.githubusercontent.com/HeidiDragomir/DoggyMatch-MERN-App-frontend/main/src/assets/img/DoggyMatch2.jpg" width="auto" height="250">
+<img src="https://raw.githubusercontent.com/HeidiDragomir/DoggyMatch-MERN-App-frontend/main/src/assets/img/DoggyMatch2.jpg" width="auto" height="auto">
 
-<img src="https://raw.githubusercontent.com/HeidiDragomir/DoggyMatch-MERN-App-frontend/main/src/assets/img/DoggyMatch3.jpg" width="auto" height="300">
+<img src="https://raw.githubusercontent.com/HeidiDragomir/DoggyMatch-MERN-App-frontend/main/src/assets/img/DoggyMatch3.jpg" width="auto" height="auto">
 
 
 ## Table of Contents
