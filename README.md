@@ -92,7 +92,7 @@ Created by:
 
 ## General Information
 
-- This repository interact with the backend part of DoggyMatch-App. [Backend](https://github.com/cimp08/team-2-backend-final)
+- This repository interact with the backend part of DoggyMatch-App. [Backend](https://github.com/HeidiDragomir/DoggyMatch-MERN-App-backend)
 
 ## License
 
